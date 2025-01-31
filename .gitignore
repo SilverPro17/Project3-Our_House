@@ -1,0 +1,63 @@
+# Ignore files in Library and Temp folders (generated automatically by Unity)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Ignore Assets that are not needed
+Assets/StreamingAssets/*.tmp
+Assets/StreamingAssets/Thumbs.db
+Assets/StreamingAssets/*.bak
+
+# Ignore crash logs
+*.stacktrace
+
+# Ignore auto-generated files by Unity
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.orig
+
+# Ignore Unity VSCode settings
+.vscode/
+
+# Ignore Visual Studio/JetBrains Rider files
+.vs/
+.idea/
+*.iml
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore Build folders
+[Bb]uild/
+
+# Ignore temporary generated texture atlas
+*_TexAtlases/
+
+# VRTK-specific files (optional, depending on use)
+Assets/VRTK/Examples/
+Assets/VRTK/Generated/
+
+# Ignore Third-Party SDKs (Optional: Customize based on your SDK usage)
+Assets/Plugins/Android/
+Assets/Plugins/iOS/
+
+# Ignore ProBuilder Auto-Save
+*.pb
+
+# Exclude specific model folders if needed (adjust to match your project structure)
+Assets/Models/Temp/
+Assets/Models/Backup/
