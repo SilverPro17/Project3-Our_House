@@ -79,7 +79,8 @@ Abaixo estão algumas capturas de tela que mostram a aplicação em execução n
 
 ## Painel de Itens Interativos
 - Vídeo Demonstrativo
-
+  
+https://github.com/user-attachments/assets/abe313f5-d52f-4418-a7dc-b8466b33d121
 
 ## Discussão: Experiência no Simulador vs. Headset
 ### Simulador
